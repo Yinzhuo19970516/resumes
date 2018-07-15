@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="016cfd27-1945-4841-9a75-3a7f24f09976" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/我的个人简历.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的个人简历.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的个人简历.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,21 +16,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="我的个人简历.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/我的个人简历.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PDF.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PDF.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3240" />
           </provider>
         </entry>
       </file>
@@ -164,12 +161,12 @@
       <workItem from="1531562587272" duration="12649000" />
       <workItem from="1531623380276" duration="4529000" />
       <workItem from="1531631674223" duration="2300000" />
-      <workItem from="1531644622155" duration="232000" />
+      <workItem from="1531644622155" duration="1050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21182000" />
+    <option name="totallyTimeSpent" value="22000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -300,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PDF.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/pdf.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -316,9 +306,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/我的个人简历.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+        <state relative-caret-position="360">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDF.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240" />
       </provider>
     </entry>
   </component>
