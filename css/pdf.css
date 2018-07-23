@@ -35,7 +35,7 @@ aside a {
 }
 
 .container {
-    width: 1000px;
+    width: 1150px;
     position: relative;
 }
 
@@ -104,8 +104,8 @@ h2 {
 .main {
     position: relative;
     left: 450px;
-    width: 765px;
-    height: 1050px;
+    width: 810px;
+    height: 1820px;
     /*height: 1682px;*/
     padding: 15px 20px 0;
     background: #f0f2f1;
@@ -201,4 +201,18 @@ h5 {
 
 .exp ul > li {
     margin: 0 0 12px 0;
+}
+.qr {
+    position: absolute;
+    bottom: 200px;
+    color: #004d40;
+    font-size: 17px;
+    text-align: center;
+}
+
+.qr-in {
+    margin: 0 auto;
+}
+.qr-in a {
+    color: #004d40;
 }
