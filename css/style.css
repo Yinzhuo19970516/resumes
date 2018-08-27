@@ -34,7 +34,7 @@ aside a {
     display: inline-block;
     width:80px;
     height:38px;
-    line-height:38px;
+    line-height:42px;
     padding-left:10px;
 }
 .container {
@@ -72,26 +72,26 @@ aside a {
     width: 120px;
 }
 h1 {
-    font-size: 28px;
+    font-size: 32px;
     font-weight: normal;
 }
 h2 {
-    font-size:14px;
+    font-size:18px;
 }
 .side-info dt {
-    font-size: 18px;
+    font-size: 22px;
     color: #9f3;
-    line-height:40px;
+    line-height:44px;
 }
 .side-info dd{
-    font-size:14px;
-    line-height:20px;
+    font-size:18px;
+    line-height:24px;
 }
 .note {
     text-indent:2em;
     margin-top:90px;
     color:#004d40;
-    font-size:18px;
+    font-size:22px;
 }
 .main {
     position: relative;
@@ -109,33 +109,33 @@ h2 {
 }
 
 .main-info dt {
-    font-size: 24px;
+    font-size: 28px;
     color: #00796b;
-    line-height: 30px;
+    line-height: 34px;
     border-bottom: 1px solid #00796b;
     margin: 0 0 15px -5px;
 }
 
 .main-info dd {
-    font-size: 15px;
-    line-height: 27px;
+    font-size: 19px;
+    line-height: 31px;
     color: #616161;
 }
 
 .main-info span {
     color: #000;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 h3 {
-    font-size: 19px;
+    font-size: 23px;
     color: #004d40;
     margin: 0 0 15px 5px;
 }
 
 h4 {
-    line-height: 30px;
-    font-size: 18px;
+    line-height: 34px;
+    font-size: 22px;
     color: #000;
     position: relative;
     bottom: 3px;
@@ -143,13 +143,13 @@ h4 {
 
 h5 {
     clear: both;
-    font-size: 16px;
+    font-size: 20px;
     color: #000;
-    line-height: 25px;
+    line-height: 29px;
 }
 h4 a,
 h5 a {
-    font-size: 12px;
+    font-size: 16px;
     border: 1px solid #4db6ac;
     padding: 1px 3px;
     border-radius: 5px;
